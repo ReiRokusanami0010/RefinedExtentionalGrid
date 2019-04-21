@@ -1,0 +1,16 @@
+[
+{
+  "modid": "refinedextentionalgrid",
+  "name": "Refined Extentional Grid",
+  "description": "Added Extended Crafting Grid For Refined Storage.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ReiRokusanami"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
